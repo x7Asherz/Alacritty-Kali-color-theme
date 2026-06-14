@@ -1,0 +1,1 @@
+# Alacritty-Kali-color-theme
